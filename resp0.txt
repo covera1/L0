@@ -1,0 +1,22 @@
+  342  cd /Users/carito/Documents/UC/2019-1/PrograComoHerramienta
+  343  git
+  344  git clone https://github.com/IIC2115/Syllabus.git
+  345  git add *
+  346  git add *
+  347  git add*
+  348  git add /L0
+  349  cd /Users/carito/Documents/UC/2019-1/PrograComoHerramienta/Laboratorios
+  350  git add *
+  351  git
+  352  git clone https://github.com/covera1/L0.git
+  353  git add *
+  354  git add
+  355  git add *
+  356  git add L0
+  357  git add /L0
+  358  cd /Users/carito/Documents/UC/2019-1/PrograComoHerramienta/Laboratorios/L0
+  359  git add *
+  360  git commit -m "Con archivo de texto"
+  361  git push
+  362  git pull
+  363  history
